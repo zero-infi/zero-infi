@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Porush Bharadwaj</h1>
-<h3 align="center">I have an avid interest in new and emerging technologies. I have worked in UI/UX and Data Engineering domain in the past and have a keen interest in software programming as well. I have experience in server management as well and have worked with various industrial applications such as Proxmox, VmWare ESXi.</h3>
+<h3 align="center">I have an avid interest in new and emerging technologies. I have worked in UI/UX and Data Engineering domain in the past and have a keen interest in software programming as well as and an Enthusiast in Data Science.</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
